@@ -1,0 +1,12 @@
+{
+  "name": "officemaker-sierra-workflow-example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Starter project for an OfficeMaker Sierra workflow example.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "create:letter": "node scripts/create-ai-letter.mjs",
+    "check": "node --check scripts/create-ai-letter.mjs && node --check src/officemaker-client.mjs"
+  }
+}

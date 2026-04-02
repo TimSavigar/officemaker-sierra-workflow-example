@@ -1,0 +1,5 @@
+{
+  "document_type": "word",
+  "file_name": "sierra-letter",
+  "document_json": "{\"type\":\"document\",\"content\":{\"children\":[{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Dear Customer,\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"This document was created from the OfficeMaker Sierra starter example.\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Kind regards,\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Sierra Agent\"}]}]}}"
+}
